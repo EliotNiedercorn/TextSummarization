@@ -6,4 +6,4 @@ This is a simple, working technique, but it is not state-of-the-art. Other advan
 word embedding to extract semantic significance.
 For example, see the paper "Text Document Summarization Using Word Embedding" by Mudassir Mohd et al.
 
-I might try to make one text summarization program algorithm using word embedding in the future.
+I might try to make one text summarization program algorithm using word embedding in the future. Or implement the detection of connecting words such as "Since" or "However" to keep the connected sentences.
